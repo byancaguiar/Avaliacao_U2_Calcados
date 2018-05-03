@@ -1,0 +1,57 @@
+/*
+	. - class
+	# - ID
+*/
+.logotipo {
+	width: 55px;
+	height: auto;
+}
+#sobre{
+	text-align: center;
+	padding-top: 20px;
+	background-color: #eaeaea;
+}
+#sobre p{
+	text-align: justify;
+}
+#sobre .fla {
+	padding-top: 50px;
+}
+#produto{
+	text-align: center;
+	padding:20px;
+	background-color: #eaeaea;
+}
+#produto .row {
+	padding-top: 10px;
+}
+
+.row .prod {
+	width: 200px;
+	height: auto;
+}
+
+#mapa {
+	padding-top:20px;
+	background-color: #eaeaea;
+
+}
+
+#mapa p {
+
+	padding-top: 15px;
+}
+
+#mapa .row {
+	padding-top: 10px;
+}
+
+#formulario {
+	text-align: center;
+	padding: 30px;
+	background-color: #eaeaea;
+}
+#formulario .form-group {
+	text-align: left;
+
+}
